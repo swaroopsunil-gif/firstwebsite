@@ -1,0 +1,43 @@
+body{
+    margin : 0;
+}
+
+#navigation{
+    background-image: url('navbar.jpg');
+    width : 100%;
+    height : 60px;
+    margin : 0;
+    
+}
+
+#Header{
+    padding-top: 20px;
+    font-family: 'HelveticaNowDisplay';
+    font-size: 15px;
+    font-weight: 800;
+    padding : 20px 0 0 5%;
+    display: flex;
+    gap: 120px;
+    justify-content: left;
+
+}
+
+#Intro{
+    background: #1d5b72;
+    font-family: 'HelveticaNowDisplay';
+    font-size: 15px;
+    font-weight: 800;
+    width : 100%;
+    height : 500px;
+    margin : 0;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+a:hover{
+    color: #bcabae;
+    text-decoration: underline;
+}
